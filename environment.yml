@@ -1,4 +1,4 @@
-name: h501-gutenburg
+name: h501-gutenberg
 dependencies:
   - python=3.11
   - pip
